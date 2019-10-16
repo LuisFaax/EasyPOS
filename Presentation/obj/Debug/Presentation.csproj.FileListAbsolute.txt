@@ -1,0 +1,13 @@
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\Presentation.exe.config
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\Presentation.exe
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\Presentation.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\App.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\Business.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\App.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\bin\Debug\Business.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.csprojAssemblyReference.cache
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.Properties.Resources.resources
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.csproj.GenerateResource.cache
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.csproj.CopyComplete
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.exe
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Presentation\obj\Debug\Presentation.pdb

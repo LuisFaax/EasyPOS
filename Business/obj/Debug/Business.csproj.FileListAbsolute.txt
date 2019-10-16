@@ -1,0 +1,8 @@
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\bin\Debug\Business.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\bin\Debug\Business.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\bin\Debug\Data.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\bin\Debug\Data.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\obj\Debug\Business.csproj.CopyComplete
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\obj\Debug\Business.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\Business\obj\Debug\Business.pdb

@@ -1,0 +1,4 @@
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\App\bin\Debug\App.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\App\bin\Debug\App.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\App\obj\Debug\App.dll
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\App\obj\Debug\App.pdb

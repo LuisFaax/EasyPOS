@@ -1,0 +1,5 @@
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe.config
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\EasyPOS\bin\Debug\EasyPOS.exe
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\EasyPOS\bin\Debug\EasyPOS.pdb
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\EasyPOS\obj\Debug\EasyPOS.exe
+C:\Users\PC LUIS\Desktop\Proyectos\EasyPOS\EasyPOS\obj\Debug\EasyPOS.pdb
